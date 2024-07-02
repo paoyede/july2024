@@ -1,0 +1,7 @@
+This file give instruction about different git commands
+git clone: download repositoru to the local machine
+git push: upload from the local machine to the remote
+git pull: fetch and merge
+git commit -m "write description"
+git add
+git push origin main 
